@@ -18,14 +18,3 @@ else
     echo "First arg can be only 'add' or 'remove'. "
     exit 333
 fi
-
-# ip_validation
-
-       
-
-
-
-
-# check_ip_in_sg
-
-    
